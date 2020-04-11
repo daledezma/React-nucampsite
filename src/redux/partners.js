@@ -6,3 +6,4 @@ export const Partners = (state = PARTNERS, action) => {
           return state;
       }
 };
+
